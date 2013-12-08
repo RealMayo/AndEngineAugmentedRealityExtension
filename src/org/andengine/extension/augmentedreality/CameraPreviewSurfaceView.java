@@ -16,6 +16,7 @@ import android.view.SurfaceView;
  * @author Nicolas Gramlich
  * @since 21:38:21 - 24.05.2010
  */
+@SuppressWarnings("deprecation")
 class CameraPreviewSurfaceView extends SurfaceView implements SurfaceHolder.Callback {
 	// ===========================================================
 	// Constants
